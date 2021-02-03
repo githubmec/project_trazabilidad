@@ -3,7 +3,7 @@ body{
 	color:#8b8ea0;
 	background:url(https://image.freepik.com/foto-gratis/armadura-militar-sobre-fondo-madera-cerca_93675-88315.jpg) no-repeat;
 	background-size: cover;
-	height:60%;
+	height:100%;
 	font:600 16px/18px 'Open Sans',sans-serif;
 }
 *,:after,:before{box-sizing:border-box}
